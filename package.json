@@ -1,0 +1,13 @@
+{
+  "name": "vk-posts-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vsezol/vk-posts-parser",
+  "author": "vsezol <vsevolod.zolotov02@mail.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "puppeteer": "^2.1.1"
+  }
+}
